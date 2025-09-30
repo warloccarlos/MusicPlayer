@@ -1,0 +1,72 @@
+@font-face {
+    font-family: Aurulent;
+    src: url(fonts/AurulentSans.otf);
+}
+@font-face {
+    font-family: Ferrum;
+    src: url(fonts/ferrum.otf);
+}
+@font-face {
+    font-family: Lobster;
+    src: url(fonts/Lobster-Regular.ttf);
+}
+@font-face {
+    font-family: Arvo;
+    src: url(fonts/Arvo-Regular.ttf);
+}
+@font-face {
+    font-family: Anton;
+    src: url(fonts/Anton-Regular.ttf);
+}
+@font-face {
+    font-family: Azeret;
+    src: url(fonts/AzeretMono-Regular.otf);
+}
+@font-face {
+    font-family: Oswald;
+    src: url(fonts/Oswald-Regular.ttf);
+}
+@font-face {
+    font-family: Teko;
+    src: url(fonts/Teko-Regular.otf);
+}
+@font-face {
+    font-family: American;
+    src: url(fonts/AmericanCaptain.otf);
+}
+@font-face {
+    font-family: CourierP;
+    src: url(fonts/CourierPrime-Regular.ttf);
+}
+@font-face {
+    font-family: Nunito;
+    src: url(fonts/Nunito-Regular.ttf);
+}
+@font-face {
+    font-family: Quartzo;
+    src: url(fonts/Quartzo.otf);
+}
+@font-face {
+    font-family: Bison;
+    src: url(fonts/Bison-Bold.ttf);
+}
+@font-face {
+    font-family: Teko;
+    src: url(fonts/Teko-Regular.otf);
+}
+@font-face {
+  font-family: Direction;
+  src: url(fonts/Direction-R9e63.otf) format('opentype');
+}
+@font-face {
+  font-family: Northlima;
+  src: url(fonts/Northlima-2vYZW.otf) format('opentype');
+}
+@font-face {
+  font-family: Nuchileda;
+  src: url(fonts/Nuchileda-8OyGn.ttf) format('opentype');
+}
+@font-face {
+  font-family: Spritzy;
+  src: url(fonts/Spritzy-E4gwn.otf) format('opentype');
+}
